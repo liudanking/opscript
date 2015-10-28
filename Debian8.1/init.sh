@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # color terminal
-wget -O ~/.bashrc ??
+wget -O ~/.bashrc https://raw.githubusercontent.com/liudanking/opscript/master/Debian8.1/bachrc
 
 # install docker
 apt-get update
