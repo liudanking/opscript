@@ -1,0 +1,1 @@
+# Debian 8.1 init script
