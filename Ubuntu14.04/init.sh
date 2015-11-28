@@ -3,7 +3,13 @@
 # color terminal
 echo "color terminal"
 wget -O ~/.bashrc https://raw.githubusercontent.com/liudanking/opscript/master/Ubuntu14.04/bachrc
-source ~/.bachrc
+source ~/.bashrc
+
+# use google dns
+#echo "use google dns"
+#echo "nameserver 8.8.8.8
+#nameserver 8.8.4.4" >> /etc/resolvconf/resolv.conf.d/head
+#resolvconf -u
 
 # set file description number
 echo "set file description number"
